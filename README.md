@@ -38,7 +38,7 @@ But SarasaMonoSC's "l" is too similar to "1",
 
 so I get the 4th font: WenQuanYiZenHeiMono_wideMidDot.ttf(11MB), it is the best currently.
 
-===================================================================================================
+======================================================================
 
 # Lite XL
 
