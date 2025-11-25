@@ -34,7 +34,11 @@
 
 Compare fonts wqy-microhei-terminal-mono.ttf(left, 4.5MB) vs MapleMonoNormalNL-CN-Regular.ttf(mid, 16MB) vs SarasaMonoSC-Regular.ttf(right, 14MB), I think SarasaMono is better:
 ![](./wqy_maplemono_saramono.png)
-But SarasaMonoSC's "l" is too similar to "1", so I get the 4th font: WenQuanYiZenHeiMono_wideMidDot.ttf(11MB), it is the best currently.
+But SarasaMonoSC's "l" is too similar to "1",
+
+so I get the 4th font: WenQuanYiZenHeiMono_wideMidDot.ttf(11MB), it is the best currently.
+
+===================================================================================================
 
 # Lite XL
 
